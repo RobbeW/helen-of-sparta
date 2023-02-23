@@ -1,8 +1,8 @@
-# **AI & Latijn - Breng Tacitus Tot Leven!**
+# **AI & Grieks - Helena van Sparta**
 
 <img src="afbeeldingen-github/Breng Tacitus tot leven - Artwork - Notebook.png"/>
 
-**Dit lesproject werd ontwikkeld door [Robbe Wulgaert (Sint-Lievenscollege Gent)](https://robbewulgaert.be), Florian Debaene en Laurens Van Daele (Studenten Educatieve Master Grieks-Latijn UGent). Dit in het kader van het vak 'Vakdidactiek B'. Dit project is een doorontwikkeling van het lesproject ['AI & Klassieke Talen - Breng de Romeinse keizers terug tot leven'](https://www.robbewulgaert.be/onderwijs/ai-klassieke-talen-breng-de-romeinse-keizers-tot-leven) en is gebouwd op eerder werk, namelijk *'First Order Motion Model for Image Animation*.** 
+**Dit lesproject werd ontwikkeld door [Robbe Wulgaert (Sint-Lievenscollege Gent)](https://robbewulgaert.be), Evangelia Kontopidi en Theodora Triantopolou op basis van eerder werk (Robbe Wulgaert, Florian Debaene en Laurens Van Daele) en het lesproject ['AI & Klassieke Talen - Breng de Romeinse keizers terug tot leven'](https://www.robbewulgaert.be/onderwijs/ai-klassieke-talen-breng-de-romeinse-keizers-tot-leven) en is gebouwd op eerder werk, namelijk *'First Order Motion Model for Image Animation*.** 
 
 ## **Inleiding**
 Ter afronding van de lectuur van Tacitus’ Annales XIV 1-9 maken de leerlingen een creatieve opdracht, met behulp van ‘Artificiële Intelligentie’. Artificiële intelligentie (of AI) is aan een opmars bezig. Het zorgt voor doorbraken bij zelfrijdende auto’s, het zorgt voor een gepersonaliseerde kijkervaring bij diensten zoals Netflix, het bepaalt wat we zien op sociale media ... en het versnelde ook de creatie van deepfakes. Een samentrekking van deep learning (een leermethode binnen machine learning) en fake news. Dat klinkt niet al te best en dat is het ook niet. Meer dan 95% van alle deepfakes worden gemaakt met kwade bedoelingen, zoals misinformatie of wraakporno. **Wij hopen met dit project een positief verhaal te schrijven voor deze technologie!**
