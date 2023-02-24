@@ -1,6 +1,6 @@
 # **AI & Grieks - Helena van Sparta**
 
-<img src="afbeeldingen-github/Breng Tacitus tot leven - Artwork - Notebook.png"/>
+<img src="afbeeldingen-github/Notebook Banner-NL.png"/>
 
 **Dit lesproject werd ontwikkeld door [Robbe Wulgaert (Sint-Lievenscollege Gent)](https://robbewulgaert.be), Evangelia Kontopidi en Theodora Triantopolou op basis van [eerder werk (Robbe Wulgaert, Florian Debaene en Laurens Van Daele)](https://www.robbewulgaert.be/onderwijs/ai-en-latijn-breng-tacitus-tot-leven) en het lesproject ['AI & Klassieke Talen - Breng de Romeinse keizers terug tot leven'](https://www.robbewulgaert.be/onderwijs/ai-klassieke-talen-breng-de-romeinse-keizers-tot-leven) en is gebouwd op eerder werk, namelijk *'First Order Motion Model for Image Animation*.** 
 
