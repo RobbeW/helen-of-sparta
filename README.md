@@ -48,12 +48,17 @@ Alle lesmaterialen zijn te vinden via volgende websites:
 Hiervoor neem je contact op met **Robbe Wulgaert** [via deze link.](https://robbewulgaert.be/contact) 
 
 
-## **Bron AI-reconstructies:** 
+## **Bronnen:** 
 
 ### **Referentie: Panagiotis Constantinou**
 Reconstructies op basis van beelden en bustes, gemaakt door middel van een computeralgoritme en beschikbaar gesteld via YouTube door [Panagiotis Constantinou](https://www.youtube.com/channel/UCgokSYCEqZE_yVLswO1vPXg). 
 
 ### **Referentie: First Order Motion Model for Image Animation**
 
-This repository contains the source code for the paper [First Order Motion Model for Image Animation](https://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation) by Aliaksandr Siarohin, [Stéphane Lathuilière](http://stelat.eu), [Sergey Tulyakov](http://stulyakov.com), [Elisa Ricci](http://elisaricci.eu/) and [Nicu Sebe](http://disi.unitn.it/~sebe/). 
+Dit project maakt gebruik van code uit [First Order Motion Model for Image Animation](https://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation) by Aliaksandr Siarohin, [Stéphane Lathuilière](http://stelat.eu), [Sergey Tulyakov](http://stulyakov.com), [Elisa Ricci](http://elisaricci.eu/) and [Nicu Sebe](http://disi.unitn.it/~sebe/). 
 
+### **Referentie: Helena door Euripides**
+Dit project is gebaseerd op het stuk 'Helena' door de Griekse dichter en toneelschrijver Euripides. De informatie over het stuk en de personages werden gehaald uit 'Helena - Euripides' van de Klassieke Galerij, nummer 120. Geraadpleegd op 24 februari 2023. 
+
+### **Referentie: De Kruik Van Pandora - Nathalie Haynes**
+Dit project is gebaseerd op het hoofdstuk 'Helena' uit het boek 'De Kruik Van Pandora, Vrouwen in Griekse Mythen' van Nathalie Haynes. Druk uit 2020 en geraadpleegd op 24 februari 2023. 
