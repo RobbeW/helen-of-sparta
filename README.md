@@ -19,7 +19,7 @@ Deze monoloog wordt opgenomen en door de AI omgezet in een deepfake. Deze deepfa
 <img src="/results/Menelaos_Result_NL_GIF.gif"/>
 
 ### **Helena**
-<img src="/results/Helen_Results_NL_GIF.gif/>
+<img src="/results/Helen_Results_NL_GIF.gif"/>
 
 
 
