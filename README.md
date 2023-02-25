@@ -15,14 +15,14 @@ Deze monoloog wordt opgenomen en door de AI omgezet in een deepfake. Deze deepfa
 
 
 ## **Voorbeelden**
-### **Base image + driver video = eindresultaat**
-<img src="afbeeldingen-github/Poppaea-Robbe-1.gif"/>
+### **Menelaos**
+<img src="/results/Menelaos_Result_NL_GIF.gif"/>
 
-### **Positiebepaling via OpenPose**
-<img src="afbeeldingen-github/Poppaea-Robbe-2.gif"/>
+### **Helena**
+<img src="/results/Helen_Results_NL_GIF.gif/>
 
-### **Eindresultaat (zonder driver video)**
-<img src="afbeeldingen-github/Poppaea-Robbe-3.gif"/>
+
+
 
 
 
