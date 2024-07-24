@@ -42,7 +42,7 @@ class LivePortraitPipeline(object):
         n_frames = I_lst.shape[0]
         template_dct = {
             'n_frames': n_frames,
-            'output_fps': kwargs.get('output_fps', 25),
+            'output_fps': kwargs.get('output_fps', 24),
             'motion': [],
             'c_eyes_lst': [],
             'c_lip_lst': [],
